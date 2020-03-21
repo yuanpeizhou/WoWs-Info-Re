@@ -1,6 +1,5 @@
 let temp = require('./temp.json');
 let fs = require('fs');
-let request = require('request');
 let fetch = require('node-fetch');
 let jsdom = require("jsdom");
 const { JSDOM } = jsdom;
